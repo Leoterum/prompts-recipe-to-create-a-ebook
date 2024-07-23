@@ -21,6 +21,7 @@
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ 
  > ℹ️ **NOTE:** Devido a IA de geradora de Imagens não estar mais disponivel para uso gratuito, Usei os mesmo assets já disponibilizados pelo professor, fazendo somente um novo design e novo prompt para o texto do Ebook.
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
